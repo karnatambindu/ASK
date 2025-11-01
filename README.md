@@ -127,7 +127,7 @@ plt.show()
 ```
 # Output Waveform
 # Output for ask
-[WhatsApp Image 2025-10-31 at 14 26 32_3a45aeca](https://github.com/user-attachments/assets/5d5de22c-d969-44a8-b93b-73dc70f54a2b)
+![WhatsApp Image 2025-10-31 at 14 26 32_3a45aeca](https://github.com/user-attachments/assets/5d5de22c-d969-44a8-b93b-73dc70f54a2b)
 # Output for fsk
 ![WhatsApp Image 2025-10-31 at 14 28 10_b5433c24](https://github.com/user-attachments/assets/cb3e681a-5e27-422d-b8fe-32141533b57a)
 
